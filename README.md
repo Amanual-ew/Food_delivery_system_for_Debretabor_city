@@ -79,7 +79,7 @@ Additional Tools
 
 1. Clone the repository
 
-git clone https://github.com/Amanual-ew/debre-tabor-food-delivery.git
+git clone [https://github.com/Amanual-ew/debre-tabor-food-delivery.git](https://github.com/Amanual-ew/Food_delivery_system_for_Debretabor_city)
 
 2. Move the project to Laragon
 
